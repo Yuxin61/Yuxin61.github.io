@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jungle - Author - Jungle&#39;s</title>
+        <link>https://yuxin61.github.io/en/authors/jungle/</link>
+        <description>Jungle - Author - Jungle&#39;s</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 07 Jan 2024 11:59:29 &#43;0800</lastBuildDate><atom:link href="https://yuxin61.github.io/en/authors/jungle/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello World!</title>
+    <link>https://yuxin61.github.io/en/hello_world/</link>
+    <pubDate>Sun, 07 Jan 2024 11:59:29 &#43;0800</pubDate><author>
+                        <name>Jungle</name><uri>https://github.com/Yuxin61</uri><email>yxleezw@163.com</email></author><guid>https://yuxin61.github.io/en/hello_world/</guid>
+    <description><![CDATA[Hello, World!]]></description>
+</item></channel>
+</rss>
