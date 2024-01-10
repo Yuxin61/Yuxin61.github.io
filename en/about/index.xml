@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Jungle&#39;s</title>
+    <link>https://yuxin61.github.io/en/about/</link>
+    <description>Recent content in Abouts on Jungle&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jan 2024 17:13:24 +0800</lastBuildDate>
+    <atom:link href="https://yuxin61.github.io/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jungle</title>
+      <link>https://yuxin61.github.io/en/about/about/</link>
+      <pubDate>Sun, 07 Jan 2024 17:13:24 +0800</pubDate>
+      <guid>https://yuxin61.github.io/en/about/about/</guid>
+      <description>ABOUT ME&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

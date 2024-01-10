@@ -6,3 +6,5 @@
 <!--example:-->
 <!--{{< showcase "主题文档 - 基本概念" "探索 Hugo - DoIt 主题的全部内容和背后的核心概念" "/theme-documentation-basics/featured-image.webp" "/zh-cn/theme-documentation-basics/" >}}-->
 
+{{< showcase "相簿管理" "一张照片，一个相簿。" "images/shortcuts1.png" "https://www.icloud.com/shortcuts/8807d07809e04815ac1954ebf1a1b954" >}}
+
