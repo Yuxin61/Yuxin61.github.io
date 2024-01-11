@@ -11,15 +11,6 @@
                     hreflang="en"
                     href="https://yuxin61.github.io/en/about/"
                     /></url><url>
-            <loc>https://yuxin61.github.io/en/about/about/</loc><lastmod>2024-01-07T17:13:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://yuxin61.github.io/about/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://yuxin61.github.io/en/about/about/"
-                    /></url><url>
             <loc>https://yuxin61.github.io/en/</loc><lastmod>2024-01-07T17:13:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -28,6 +19,33 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://yuxin61.github.io/en/"
+                    /></url><url>
+            <loc>https://yuxin61.github.io/en/showcase/shortcut/</loc><lastmod>2024-01-07T17:13:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yuxin61.github.io/showcase/shortcut/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yuxin61.github.io/en/showcase/shortcut/"
+                    /></url><url>
+            <loc>https://yuxin61.github.io/en/showcase/shortcuts/</loc><lastmod>2024-01-07T17:13:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yuxin61.github.io/showcase/shortcuts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yuxin61.github.io/en/showcase/shortcuts/"
+                    /></url><url>
+            <loc>https://yuxin61.github.io/en/showcase/</loc><lastmod>2024-01-07T17:13:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yuxin61.github.io/showcase/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yuxin61.github.io/en/showcase/"
                     /></url><url>
             <loc>https://yuxin61.github.io/en/showcase/</loc><lastmod>2024-01-07T17:13:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -83,7 +101,6 @@
                     hreflang="en"
                     href="https://yuxin61.github.io/en/categories/"
                     /></url><url>
-            <loc>https://yuxin61.github.io/en/offline/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://yuxin61.github.io/en/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"

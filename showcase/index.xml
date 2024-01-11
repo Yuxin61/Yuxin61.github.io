@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>作品 - showcase - Jungle&#39;s</title>
+        <link>https://yuxin61.github.io/showcase/</link>
+        <description>作品 - showcase - Jungle&#39;s</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 07 Jan 2024 17:13:24 &#43;0800</lastBuildDate><atom:link href="https://yuxin61.github.io/showcase/" rel="self" type="application/rss+xml" /><item>
+    <title>shortcut</title>
+    <link>https://yuxin61.github.io/showcase/shortcut/</link>
+    <pubDate>Sun, 07 Jan 2024 17:13:24 &#43;0800</pubDate><author>
+        <name>作者</name>
+    </author><guid>https://yuxin61.github.io/showcase/shortcut/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
